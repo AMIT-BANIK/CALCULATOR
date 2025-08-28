@@ -1,4 +1,3 @@
-/* === Global styles === */
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +13,7 @@ body {
   height: 100vh;
 }
 
-/* === Calculator container === */
+
 .calculator {
   background: #1b1b1b;
   border-radius: 20px;
@@ -48,7 +47,7 @@ body {
   box-shadow: 0 0 5px #00bcd4;
 }
 
-/* === Display screen === */
+
 .display input {
   width: 100%;
   height: 60px;
@@ -62,7 +61,7 @@ body {
   margin-bottom: 20px;
 }
 
-/* === Buttons grid === */
+
 .buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -99,7 +98,7 @@ body {
 }
 
 .equal {
-  background: #00bcd4;
+  background:#3a3a3a;
   color: #fff;
   grid-column: span 1;
 }
