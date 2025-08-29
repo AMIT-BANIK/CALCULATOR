@@ -44,7 +44,7 @@ body {
 
 .menu select:focus {
   outline: none;
-  box-shadow: 0 0 5px #00bcd4;
+  box-shadow: 0 0 5px #ff5252;
 }
 
 
